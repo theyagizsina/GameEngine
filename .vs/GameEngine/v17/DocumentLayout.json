@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\GameEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|solutionrelative:GameEngine\\src\\GameEngine\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D857B86-5B21-4CBD-9B35-CD82685D3E3E}|Sandbox\\Sandbox.vcxproj|C:\\DEV\\GAMEENGINE\\GAMEENGINE\\SRC\\GAMEENGINE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D857B86-5B21-4CBD-9B35-CD82685D3E3E}|Sandbox\\Sandbox.vcxproj|solutionrelative:GAMEENGINE\\SRC\\GAMEENGINE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|solutionrelative:GameEngine\\src\\GameEngine\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D857B86-5B21-4CBD-9B35-CD82685D3E3E}|Sandbox\\Sandbox.vcxproj|C:\\dev\\GameEngine\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D857B86-5B21-4CBD-9B35-CD82685D3E3E}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|solutionrelative:GameEngine\\src\\GameEngine\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099EAB02-0E8F-4995-9FAC-9F5D8129A14D}|GameEngine\\GameEngine.vcxproj|solutionrelative:GameEngine\\src\\GameEngine\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\EntryPoint.h",
+              "RelativeDocumentMoniker": "GameEngine\\src\\GameEngine\\EntryPoint.h",
+              "ToolTip": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\EntryPoint.h",
+              "RelativeToolTip": "GameEngine\\src\\GameEngine\\EntryPoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:57:00.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEngine.h",
+              "DocumentMoniker": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine.h",
+              "RelativeDocumentMoniker": "GameEngine\\src\\GameEngine.h",
+              "ToolTip": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine.h",
+              "RelativeToolTip": "GameEngine\\src\\GameEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:38:33.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "C:\\dev\\GameEngine\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
+              "ToolTip": "C:\\dev\\GameEngine\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T08:37:48.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Application.cpp",
+              "RelativeDocumentMoniker": "GameEngine\\src\\GameEngine\\Application.cpp",
+              "ToolTip": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Application.cpp",
+              "RelativeToolTip": "GameEngine\\src\\GameEngine\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T08:37:20.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Core.h",
+              "RelativeDocumentMoniker": "GameEngine\\src\\GameEngine\\Core.h",
+              "ToolTip": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Core.h",
+              "RelativeToolTip": "GameEngine\\src\\GameEngine\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:24:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Application.h",
+              "RelativeDocumentMoniker": "GameEngine\\src\\GameEngine\\Application.h",
+              "ToolTip": "C:\\dev\\GameEngine\\GameEngine\\src\\GameEngine\\Application.h",
+              "RelativeToolTip": "GameEngine\\src\\GameEngine\\Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:36:23.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
